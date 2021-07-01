@@ -4,7 +4,7 @@ public class TypeSample {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		int sum = 2.5;
+		int sum = 5;
 		System.out.println(sum);
 		
 		double rate = 10.5;
